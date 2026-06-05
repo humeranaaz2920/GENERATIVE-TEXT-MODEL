@@ -356,10 +356,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-<div align="center">
+<div align="center>
 
-**Made with ❤️ by [Your Name]**
-
-⭐ If you find this project helpful, please consider giving it a star!
-
-</div>
+*OUTPUT*:<img width="544" height="352" alt="Image" src="https://github.com/user-attachments/assets/267ff1b0-5218-4a2e-b6f4-8685e0cf4064" />
