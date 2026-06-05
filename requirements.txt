@@ -1,0 +1,28 @@
+# Core Dependencies
+torch>=2.0.0
+transformers>=4.30.0
+numpy>=1.21.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+ipython>=8.0.0
+notebook>=6.5.0
+jupyterlab>=3.6.0
+
+# Additional Utilities
+tqdm>=4.65.0
+click>=8.1.0
+python-dotenv>=1.0.0
+
+# Development Dependencies (optional)
+pytest>=7.0.0
+black>=23.0.0
+pylint>=2.17.0
+flake8>=6.0.0
+
+# Documentation
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.2.0
+
+# For optimal GPU support (optional - uncomment if using CUDA)
+# torch-cuda-toolkit>=11.8  # Uncomment and install separately if needed
