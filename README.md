@@ -363,10 +363,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 - [GPT-2 Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - [Hugging Face Documentation](https://huggingface.co/docs/transformers/)
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-
----
-
-<div align="center>
+- [PyTorch Documentation](https://pytorch.org/docs/stable/index
 
 *OUTPUT*:<img width="544" height="352" alt="Image" src="https://github.com/user-attachments/assets/00167500-7ecb-4f6e-a68d-9eab01cc3937" />
